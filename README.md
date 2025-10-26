@@ -62,5 +62,3 @@ npx cypress run
 
 ## Repositorio
 
-Implementación completa:
-https://github.com/argenisjpinto/mercap-challenge
